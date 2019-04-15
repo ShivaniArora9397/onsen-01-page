@@ -1,5 +1,5 @@
-# Onsen navigator
+# Onsen page
 
-To demonstrate Onsen navigator
+To demonstrate Onsen page
 
 
